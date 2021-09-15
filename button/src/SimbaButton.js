@@ -32,6 +32,7 @@ export class SimbaButton extends ThemeMixin(LionButton) {
         <slot name="prefix"></slot>
         <slot></slot>
         <slot name="suffix"></slot>
+        Foo
       </div>
     `;
   }
